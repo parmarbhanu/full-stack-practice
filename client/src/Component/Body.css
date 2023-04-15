@@ -1,0 +1,14 @@
+.car{
+
+    /* width: 100px;
+    height: 100px; */
+    /* object-fit: cover; */
+    /* max-width: 99%;
+    max-height: 99% */
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px 50px 30px 5px;
+    /* border-radius: 25px; */
+    /* border: 0ch; */
+
+}
